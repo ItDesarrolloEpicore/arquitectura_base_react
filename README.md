@@ -55,9 +55,12 @@ Para iniciar el proyecto localmente, sigue estos pasos:
 1. **Clonar el proyecto**:
    ```sh
    git clone <URL>
-2. **Instalar dependencias**:
+2. **Entrar dentro del proyect**:
+   ```sh
+   cd ./path_carpeta_proyecto
+3. **Instalar dependencias**:
    ```sh
    npm install
-2. **Correr el proyecto localmente**:
+4. **Correr el proyecto localmente**:
    ```sh
    npm run dev
